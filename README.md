@@ -2,7 +2,7 @@
 
 **Make the ever-so-popular essentials plugin ever-so-unpopular with ever-so-custom messages.**
 
-## What it does?
+## What do it do booboo?
 
 It removes that SUPER ugly orange color, replacing it with light gray.. and replacing red with dark green! Hooray!
 
